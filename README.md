@@ -1,10 +1,10 @@
-# NextJS Metaverse
-I made this Metaverse to familiarize myself with NextJS and Tailwindcss. This project is my first introduction to those two tools.
+# Next.js Metaverse
+I made this Metaverse to familiarize myself with Next.js and Tailwindcss. This project is my first introduction to those two tools.
 
 ## Technology Stack & Tools
 
 - Javascript (NextJS & Testing)
-- [NextJS](https://nextjs.org/) (Frontend Framework)
+- [Next.js](https://nextjs.org/) (Frontend Framework)
 - [Tailwindcss](https://tailwindcss.com/) (Styling)
 - [Framer Motion](https://www.framer.com/motion/) (Animations)
 
