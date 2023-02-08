@@ -5,7 +5,7 @@ It is a landing page for a metaverse.
 
 ## Technology Stack & Tools
 
-- Javascript (NextJS & Testing)
+- Javascript (Next.js)
 - [Next.js](https://nextjs.org/) (Frontend Framework)
 - [Tailwindcss](https://tailwindcss.com/) (Styling)
 - [Framer Motion](https://www.framer.com/motion/) (Animations)
